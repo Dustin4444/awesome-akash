@@ -77,6 +77,7 @@ To add a new template/resource:
 - [Bifrost](bifrost)
 - [Botpress](botpress)
 - [Buzz Agent](Buzz-Agent)
+- [Buzz Goose Agent](Buzz-Goose-Agent)
 - [Buzz OpenCode Agent](Buzz-OpenCode-Agent)
 - [ChatChat](chatchat)
 - [Claude Code](claude-code)
